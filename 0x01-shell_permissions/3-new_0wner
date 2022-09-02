@@ -1,1 +1,2 @@
 groups
+sudo chown betty hello
