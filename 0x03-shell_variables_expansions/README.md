@@ -1,1 +1,1 @@
-a script that displays the result of BREATH to the power LOVE
+a script that encodes and decodes text using the rot13 encryption. Assume ASCII
