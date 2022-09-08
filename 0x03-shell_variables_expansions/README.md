@@ -2,3 +2,4 @@ a shell script that adds the two numbers stored in the environment variables WAT
 a script that lists all local variables and environment variables, and functions
 a script that counts the number of directories in the PATH
 a script that counts the number of directories in the PATH
+a script that creates a new global variable
